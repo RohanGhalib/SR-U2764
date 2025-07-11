@@ -9,7 +9,7 @@ This was the start of this journey - i had to decide a name for this keyboard, a
 
 So I named this keyboard as codename of the bond between us. You can crack it easily btw 🥲 was'nt able to name something that is easier to understand as well as difficult to crack, but still, i love this one.
 
-# Chapter 2️⃣: Planning The Specifications
+# _Chapter 2️⃣: Planning The Specifications_
 
 After that i started thinking about what do i want in this keyboard. It should have enough features as a normal keyboard while also easier to build and design as i have to do everything myself 🥲🥲. So I went for these specifications:
 
@@ -17,4 +17,5 @@ After that i started thinking about what do i want in this keyboard. It should h
 - **Cherry MX Blue Switches**
 - **An Oled Panel (Controllable from OS)**
 - **Per -Key RGB Lighting**
-- 
+
+
