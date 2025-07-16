@@ -38,5 +38,8 @@ After that at first i just copied and pasted his schematic (I know it's cheating
 I redesigned with a 8x10 Matrix grid and connected them to Pico. 
 
 **Designing The PCB**
-
 Then i moved on to the PCB part. I saw a tutorial on youtube which included taking the json from keyboard Layout editor and a plugin (KLMTOKICAD) which would automatically adjust the keys based on the layout. I replicated the process and it was good to go. Now when i opened the 3d viewer in pcb, it had an issue, there was no place to add the oled display as i was using 60% layout and it was packed up with keys. So i decided i also have to add arrow keys, the top area can be then used to add the OLED and a place to add the microcontroller on.
+
+**Routing**
+This was the toughest part, it felt like im playing game. while i have no idea if it will work or not, i just cinnected all wires together, and i used a lots of via pads and i dont even know if its normal or not 🙂
+ But Atleast it's complete now. I ran all the tests and they are okay
